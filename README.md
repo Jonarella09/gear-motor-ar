@@ -1,1 +1,0 @@
-# gear-motor-ar
